@@ -14,3 +14,5 @@ test_mml_parser.py — script that parses XML feed of Yandex market is for googl
 it_v1 (1).py — the solution of standard tasks of the Titanic
 
 train_full.py — solution for the first stage https://idao.world
+
+hamming_numbers.py - This function computes the n-th smallest Hamming number.
