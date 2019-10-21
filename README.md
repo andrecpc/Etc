@@ -16,3 +16,5 @@ it_v1 (1).py — the solution of standard tasks of the Titanic
 train_full.py — solution for the first stage https://idao.world
 
 hamming_numbers.py - This function computes the n-th smallest Hamming number.
+
+data_mail.ipynb — Contest decision on Data Mail exam https://data.mail.ru/pages/index/ The result 33/521 position https://mlbootcamp.ru/round/22/rating/.
